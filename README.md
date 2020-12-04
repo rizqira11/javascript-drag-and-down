@@ -1,2 +1,2 @@
-# javascript-draganddown
+# javascript-drag and down
 Created with CodeSandbox
